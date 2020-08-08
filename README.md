@@ -1,3 +1,8 @@
+# Github-Finder
+
+Events, Passing Props, React Router & More
+No Redux /Context Api or any state management
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
