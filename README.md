@@ -1,6 +1,6 @@
 # Github-Finder
 
-# Live-site[https://githubfinder0007.netlify.app]
+Live-site[https://githubfinder0007.netlify.app]
 
 Events, Passing Props, React Router & More
 No Redux /Context Api or any state management
